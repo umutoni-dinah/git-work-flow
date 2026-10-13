@@ -31,3 +31,21 @@ section {
 h2 {
   color: #b64735;
 }
+
+@media (max-width: 600px) {
+  body {
+    padding: 1rem;
+  }
+
+  header {
+    padding: 1.25rem;
+  }
+
+  section {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+}
