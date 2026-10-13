@@ -49,3 +49,9 @@ h2 {
     font-size: 1.8rem;
   }
 }
+
+a:focus-visible {
+  outline: 3px solid #1d5f91;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
