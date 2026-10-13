@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 2rem;
+  background: #fbf7ef;
+  color: #27251f;
+  font: 16px/1.6 system-ui, sans-serif;
+}
+
+header,
+main,
+footer {
+  max-width: 760px;
+  margin: 0 auto 1.5rem;
+}
+
+header {
+  padding: 2rem;
+  background: #b64735;
+  color: white;
+  border-radius: 12px;
+}
+
+section {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  background: white;
+  border: 1px solid #e9dfd0;
+  border-radius: 12px;
+}
+
+h2 {
+  color: #b64735;
+}
